@@ -11,7 +11,10 @@
             "enable-patching" : true,
             "drupal/domain": {
                 "Domain config UI": "https://www.drupal.org/files/issues/domain_config_ui-2829614-3.patch"
-            }
+            },
+            "drupal/google_tag": {
+                "Check empty file": "https://www.drupal.org/files/issues/brackets_in_the_head-2845243-2.patch"
+            }          
         }
     },
 
