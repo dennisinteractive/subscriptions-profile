@@ -13,6 +13,7 @@
         },
         {
             "type": "vcs",
+            "vendor-alias": "dennisdigital",
             "url": "git@github.com:dennisinteractive/google_tag.git"
         }
     ],
