@@ -39,7 +39,7 @@
         "drupal/config_token": "1.x-dev#ee626183c4b75b901a9edb63c1e614516e9c3ba6",
         "drupal/domain": "1.x-dev#59a4f59bce12d65c5d73241cb659e4cbe8fb0f35",
         "drupal/paragraphs": "^1.0",
-        "dennisdigital/domain_path": "26684_setup_aliases-dev",
+        "drupal/domain_path": "26684_setup_aliases-dev",
         "solotandem/google_tag": "dev-dennis-8.x-1.x#66c4b40247dfcbc895cc544f62ca9a8be9fcc6f9"
     }
 }
