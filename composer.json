@@ -33,6 +33,6 @@
         "drupal/config_token": "1.x-dev#ee626183c4b75b901a9edb63c1e614516e9c3ba6",
         "drupal/domain": "1.0.0-alpha6",
         "drupal/paragraphs": "^1.0",
-        "drupal/google_tag": "dev-dennis-8.x-1.x#66c4b40247dfcbc895cc544f62ca9a8be9fcc6f9"
+        "dennisdigital/google_tag": "dev-dennis-8.x-1.x#66c4b40247dfcbc895cc544f62ca9a8be9fcc6f9"
     }
 }
