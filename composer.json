@@ -13,7 +13,8 @@
         },
         {
             "type": "vcs",
-            "url": "git@github.com:dennisinteractive/google_tag.git"
+            "url": "git@github.com:dennisinteractive/google_tag.git",
+            "no-api": true
         }
     ],
 
