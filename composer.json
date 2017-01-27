@@ -15,15 +15,13 @@
             "type": "vcs",
             "url": "git@github.com:dennisinteractive/google_tag.git"
         },
-				{
-						"type": "vcs",
-						"url": "git@github.com:dennisinteractive/domain.git",
-						"no-api": true
-				},
         {
-            "type": "vcs",
-            "url": "git@github.com:dennisinteractive/domain_path.git",
-            "no-api": true
+          "type": "vcs",
+          "url": "git@github.com:dennisinteractive/domain.git"
+        },
+        {
+          "type": "vcs",
+          "url": "git@github.com:dennisinteractive/domain_path.git"
         }
     ],
 
@@ -35,6 +33,6 @@
         "drupal/domain": "dev-config_ui_alpha6",
         "drupal/paragraphs": "^1.0",
         "drupal/domain_path": "26684_setup_aliases-dev",
-        "solotandem/google_tag": "dev-dennis-8.x-1.x#66c4b40247dfcbc895cc544f62ca9a8be9fcc6f9"
+        "solotandem/google_tag": "dev-dennis-8.x-1.x#2b0d1ccd45919dbb7f535680a6756917df47f828"
     }
 }
