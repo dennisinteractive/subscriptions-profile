@@ -18,14 +18,6 @@
         }
     ],
 
-    "extra": {
-        "patches": {
-            "drupal/domain": {
-                "Domain config UI": "https://www.drupal.org/files/issues/domain_config_ui-2829614-3.patch"
-            }
-        }
-    },
-
     "comment": "Vendor solotandem should be changed to drupal once this is fixed: https://www.drupal.org/node/2845873#comment-11881117",
 
     "require": {
