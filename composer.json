@@ -13,11 +13,7 @@
         },
         {
             "type": "composer", "url": "https://repo.packagist.com/dennisdigital/"
-        },
-        {
-            "type": "vcs",
-            "url": "git@github.com:dennisinteractive/domain_xmlsitemap.git"
-        },
+        }
         {
             "packagist.org": false
         }
