@@ -11,8 +11,12 @@
             "type": "composer",
             "url": "https://packages.drupal.org/8"
         },
-        { 
+        {
             "type": "composer", "url": "https://repo.packagist.com/dennisdigital/"
+        },
+        {
+            "type": "vcs",
+            "url": "git@github.com:dennisinteractive/domain_xmlsitemap.git"
         },
         {
             "packagist.org": false
@@ -24,6 +28,7 @@
     "require": {
         "drupal/token_filter": "1.0.0-beta1",
         "drupal/config_token": "1.x-dev#ee626183c4b75b901a9edb63c1e614516e9c3ba6",
+        "drupal/domain_xmlsitemap": "^1.0.0",
         "drupal/domain": "dev-dennis-8.x-1.x",
         "drupal/paragraphs": "^1.0",
         "drupal/domain_path": "~1.0.0",
