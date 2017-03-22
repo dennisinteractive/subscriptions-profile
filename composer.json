@@ -28,6 +28,6 @@
         "drupal/domain": "dev-dennis-8.x-1.x",
         "drupal/paragraphs": "^1.0",
         "drupal/domain_path": "~1.0.0",
-        "solotandem/google_tag": "dev-dennis-8.x-1.x#2b0d1ccd45919dbb7f535680a6756917df47f828"
+        "drupal/google_tag": "dev-dennis-8.x-1.x#2b0d1ccd45919dbb7f535680a6756917df47f828"
     }
 }
