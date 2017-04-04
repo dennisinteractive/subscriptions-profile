@@ -28,6 +28,6 @@
         "drupal/domain": "dev-dennis-8.x-1.x",
         "drupal/paragraphs": "^1.0",
         "drupal/domain_path": "~1.0.0",
-        "drupal/google_tag": "dev-27707_gtm_fixes"
+        "drupal/google_tag": "~2.0.0"
     }
 }
