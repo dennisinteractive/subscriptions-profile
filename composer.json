@@ -23,10 +23,10 @@
 
     "require": {
         "drupal/token_filter": "1.0.0-beta1",
-        "drupal/config_token": "1.0",
-        "drupal/domain_xmlsitemap": "1.0.0",
+        "drupal/config_token": "1.1.0",
+        "drupal/domain_xmlsitemap": "v1.0.0",
         "drupal/domain": "dev-dennis-8.x-1.x",
-        "drupal/paragraphs": "1.0",
+        "drupal/paragraphs": "1.1.0",
         "drupal/domain_path": "~1.0.0",
         "drupal/google_tag": "~2.0.1"
     }
