@@ -25,7 +25,6 @@
         "drupal/token_filter": "1.0.0-beta1",
         "drupal/config_token": "~1.1.0",
         "drupal/domain_xmlsitemap": "~1.0.0",
-        "drupal/domain": "1.0-alpha16",
         "drupal/paragraphs": "~1.6.0",
         "drupal/domain_path": "1.0.0"
     }
