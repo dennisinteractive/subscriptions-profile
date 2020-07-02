@@ -27,6 +27,6 @@
         "drupal/domain_xmlsitemap": "~1.0.0",
         "drupal/domain": "1.0-alpha16",
         "drupal/paragraphs": "~1.6.0",
-        "drupal/domain_path": "dev-CMS-1243-mirror-contrib"
+        "drupal/domain_path": "1.0-beta4"
     }
 }
